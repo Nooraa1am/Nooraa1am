@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nooraa1am
 - 👀 I’m interested in flutter & Node
 - 🌱 I’m currently working as flutter and node.js developr
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just type GitHub.com/nooraa1am
 - 😄 Pronouns: Noor
 - ⚡ Fun fact: ...
