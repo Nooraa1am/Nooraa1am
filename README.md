@@ -3,7 +3,6 @@
 - 🌱 I’m currently working as flutter and node.js developr
 - 📫 How to reach me just type GitHub.com/nooraa1am
 - 😄 Pronouns: Noor
-- ⚡ Fun fact: ...
 
 <!---
 Nooraa1am/Nooraa1am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
